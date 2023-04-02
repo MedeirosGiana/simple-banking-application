@@ -5,8 +5,7 @@
 <p align="justify">
 Projeto em desenvolvimento para aplicação bancária, o objetivo foi abstrair uma solução orientada a objetos para o cenário onde o banco oferece
 aos seus clientes dois tipos de contas: Corrente e Poupança, e as seguintes funcionalidades entre as contas da própria instituição foram 
-consideradas: consultar extrato, depósito, saque, transferência.
-
+consideradas: consultar extrato, depósito, saque. Através de um menu de opções, o cliente seleciona a opção desejada e realiza a operação.
 </p>
 
 
@@ -18,4 +17,6 @@ consideradas: consultar extrato, depósito, saque, transferência.
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/MedeirosGiana/simple-banking-application)ou [baixá-lo].
+Você pode [acessar o código fonte do projeto](https://github.com/MedeirosGiana/simple-banking-application) ou [baixá-lo].
+
+
