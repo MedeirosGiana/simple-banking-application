@@ -5,13 +5,22 @@ public class Bank {
    private String nome;
    private int codIdentificador;
    private List<Account> contas;
+   private List<Client> clients;
+
 
    public List<Account> getContas() {
       return contas;
    }
 
+
    public void setContas(List<Account> contas) {
       this.contas = contas;
+   }
+   public List<Client> getClients() {
+      return clients;
+   }
+   public void setClients(List<Client> clients) {
+      this.clients = clients;
    }
 
    public String getNome() {

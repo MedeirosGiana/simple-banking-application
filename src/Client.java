@@ -1,5 +1,5 @@
 public class Client {
-    
+
     private String nome;
     private String cpf;
 
