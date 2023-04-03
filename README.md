@@ -40,6 +40,8 @@ Você pode [acessar o código fonte do projeto](https://github.com/MedeirosGiana
 
 <p align="justify">
 Evoluir o projeto, implementar novas classes como classe funcionário, classe endereço, classe pessoa, melhorar a classe cliente, implementar novos métodos e funcionalidades.
+ 
+ Observação: aceito sugestões de melhorias no projeto e críticas construtivas, estou iniciando na área de programação e busco constante evolução e   aprendizado.
 
 </p>
 
